@@ -90,6 +90,15 @@
         "githubconfig.hostname": "cr",
         "githubconfig.scheme": "cr",
 
+        "gitlabconfig": "cru",
+        "gitlabconfig.allowedIdentities": "cr",
+        "gitlabconfig.accessMode": "cr",
+        "gitlabconfig.clientId": "cr",
+        "gitlabconfig.clientSecret": "cro",
+        "gitlabconfig.enabled": "cr",
+        "gitlabconfig.hostname": "cr",
+        "gitlabconfig.scheme": "cr",
+
         "host.apiProxy" : "ru",
 
         "hostApiProxyToken" : "r",
